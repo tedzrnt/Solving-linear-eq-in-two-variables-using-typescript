@@ -4,7 +4,7 @@ const pLinear = (gab1 : number, gab2 : number) : any  => {
 
     let y = x - gab2;
 
-    console.log(`Hasil X = ${[x]} Hasil = ${y}`)
+    console.log(`Hasil X = ${[x]} Hasil Y = ${y}`)
     return [x, y]   
 
 }
